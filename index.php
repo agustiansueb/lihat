@@ -45,7 +45,6 @@ $stmt->execute(array(
  $stmt =$db->query("SELECT * FROM sukadantidak ORDER BY id DESC");
  while($row = $stmt->fetch()){
  echo'<table>';
- echo'<tr><td>Nomor</td><td>Nama</td><td>Suka</td><td>Tidak suka</td></tr>';
  echo'<tr>';
  echo'<td>'.$row['id'].'</td>';
  echo'<td>'.$row['postTitle'].'</td>';
