@@ -1,4 +1,3 @@
-Enter password: 
 -- MariaDB dump 10.18  Distrib 10.5.8-MariaDB, for Android (armv7-a)
 --
 -- Host: localhost    Database: lihat
