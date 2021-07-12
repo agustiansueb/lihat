@@ -1,6 +1,4 @@
 <?php
-ob_start();
-session_start();
 define('DBHOST','localhost');
 define('DBUSER','u0_a192');
 define('DBPASS','');
