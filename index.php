@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Resize Image</title>
+ <title>Masukan keluarkan</title>
  <meta content="width=device-width, initial-scale=1" name="viewport"/>
  <style>
  body{background:black;color:#fff;font-size:16px;font-family:Roboto;}
